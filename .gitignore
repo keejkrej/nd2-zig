@@ -1,0 +1,5 @@
+.zig-cache/
+zig-out/
+/fixtures/
+/tests/fixtures/
+.DS_Store
