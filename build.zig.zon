@@ -1,0 +1,17 @@
+.{
+    .name = .nd2,
+    .fingerprint = 0x744ec01b361edf46,
+    .version = "1.0.0",
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "README.md",
+        "DATASTRUCTURE.md",
+        "LICENSE-APACHE",
+        "LICENSE-MIT",
+    },
+}
